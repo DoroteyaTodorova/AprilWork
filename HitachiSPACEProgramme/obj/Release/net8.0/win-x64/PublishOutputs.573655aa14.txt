@@ -1,0 +1,5 @@
+C:\Intervews\HitachiSPACEProgramme\PublishOutput\HitachiSPACEProgramme.exe
+C:\Intervews\HitachiSPACEProgramme\PublishOutput\HitachiSPACEProgramme.dll
+C:\Intervews\HitachiSPACEProgramme\PublishOutput\HitachiSPACEProgramme.deps.json
+C:\Intervews\HitachiSPACEProgramme\PublishOutput\HitachiSPACEProgramme.runtimeconfig.json
+C:\Intervews\HitachiSPACEProgramme\PublishOutput\HitachiSPACEProgramme.pdb

@@ -1,0 +1,17 @@
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\bin\Release\net8.0\win-x64\HitachiSPACEProgramme.exe
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\bin\Release\net8.0\win-x64\HitachiSPACEProgramme.deps.json
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\bin\Release\net8.0\win-x64\HitachiSPACEProgramme.runtimeconfig.json
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\bin\Release\net8.0\win-x64\HitachiSPACEProgramme.dll
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\bin\Release\net8.0\win-x64\HitachiSPACEProgramme.pdb
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Release\net8.0\win-x64\HitachiSPACEProgramme.HitachiSPACEProgramme.Languages.de.language.resources
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Release\net8.0\win-x64\HitachiSPACEProgramme.HitachiSPACEProgramme.Languages.en.language.resources
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Release\net8.0\win-x64\HitachiSPACEProgramme.csproj.GenerateResource.cache
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Release\net8.0\win-x64\HitachiSPACEProgramme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Release\net8.0\win-x64\HitachiSPACEProgramme.AssemblyInfoInputs.cache
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Release\net8.0\win-x64\HitachiSPACEProgramme.AssemblyInfo.cs
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Release\net8.0\win-x64\HitachiSPACEProgramme.csproj.CoreCompileInputs.cache
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Release\net8.0\win-x64\HitachiSPACEProgramme.dll
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Release\net8.0\win-x64\refint\HitachiSPACEProgramme.dll
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Release\net8.0\win-x64\HitachiSPACEProgramme.pdb
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Release\net8.0\win-x64\HitachiSPACEProgramme.genruntimeconfig.cache
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Release\net8.0\win-x64\ref\HitachiSPACEProgramme.dll

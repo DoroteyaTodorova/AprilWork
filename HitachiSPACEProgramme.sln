@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HitachiSPACEProgramme", "HitachiSPACEProgramme\HitachiSPACEProgramme.csproj", "{9FD38742-800B-478F-A598-F4842852D6BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FD38742-800B-478F-A598-F4842852D6BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD38742-800B-478F-A598-F4842852D6BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD38742-800B-478F-A598-F4842852D6BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD38742-800B-478F-A598-F4842852D6BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E014B23-4624-407B-B32D-3EE3A4D8F856}
+	EndGlobalSection
+EndGlobal

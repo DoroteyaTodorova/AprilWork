@@ -1,0 +1,17 @@
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\bin\Debug\net8.0\HitachiSPACEProgramme.exe
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\bin\Debug\net8.0\HitachiSPACEProgramme.deps.json
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\bin\Debug\net8.0\HitachiSPACEProgramme.runtimeconfig.json
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\bin\Debug\net8.0\HitachiSPACEProgramme.dll
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\bin\Debug\net8.0\HitachiSPACEProgramme.pdb
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Debug\net8.0\HitachiSPACEProgramme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Debug\net8.0\HitachiSPACEProgramme.AssemblyInfoInputs.cache
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Debug\net8.0\HitachiSPACEProgramme.AssemblyInfo.cs
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Debug\net8.0\HitachiSPACEProgramme.csproj.CoreCompileInputs.cache
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Debug\net8.0\HitachiSPACEProgramme.dll
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Debug\net8.0\refint\HitachiSPACEProgramme.dll
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Debug\net8.0\HitachiSPACEProgramme.pdb
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Debug\net8.0\HitachiSPACEProgramme.genruntimeconfig.cache
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Debug\net8.0\ref\HitachiSPACEProgramme.dll
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Debug\net8.0\HitachiSPACEProgramme.HitachiSPACEProgramme.Languages.de.language.resources
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Debug\net8.0\HitachiSPACEProgramme.HitachiSPACEProgramme.Languages.en.language.resources
+C:\Intervews\HitachiSPACEProgramme\HitachiSPACEProgramme\obj\Debug\net8.0\HitachiSPACEProgramme.csproj.GenerateResource.cache
